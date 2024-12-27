@@ -1,4 +1,4 @@
-const apiKey = "api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key}"; // replace with your API key
+const apiKey = "6892d49b565ab76b6c9957db35235c42"; // replace with your API key
 const baseURL = "https://api.openweathermap.org/data/2.5";
 
 const searchButton = document.getElementById("searchButton");
